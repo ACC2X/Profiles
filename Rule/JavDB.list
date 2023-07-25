@@ -1,0 +1,13 @@
+# NAME: JavDB
+# AUTHOR: ACC2X(Shuaizai)
+# UPDATED: 2023-07-26
+
+DOMAIN-SUFFIX,liquidlink.cn
+DOMAIN-SUFFIX,yijingluowangluo.xyz
+DOMAIN-SUFFIX,fengyunjiaoyu.xyz
+DOMAIN-SUFFIX,jdforrepam.com
+DOMAIN-SUFFIX,shanxiliulaoshi.xyz
+
+# USER-AGENT,javdb
+# USER-AGENT,javdb*
+# USER-AGENT,*javdb*
