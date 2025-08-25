@@ -1,0 +1,13 @@
+# NAME: ZOX
+# AUTHOR: ACC2X(Shuaizai)
+# UPDATED: 2025-08-26
+
+DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,entry.zox.show
+DOMAIN-SUFFIX,entry-cdn.zox.show
+
+# DOMAIN-KEYWORD,javdb
+
+# USER-AGENT,javdb
+# USER-AGENT,javdb*
+# USER-AGENT,*javdb*
